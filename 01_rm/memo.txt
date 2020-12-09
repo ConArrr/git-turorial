@@ -1,7 +1,7 @@
-step.1 ファイルごと削除
+step.1 ファイルごと削除：index.html
 
-step.2 ディレクトリごと削除
+step.2 ディレクトリごと削除：index
 
-step.3 ファイルは残して削除
+step.3 ファイルは残して削除：index2.html
 
-step.4 ディレクトリは残して削除
+step.4 ディレクトリは残して削除：index2
