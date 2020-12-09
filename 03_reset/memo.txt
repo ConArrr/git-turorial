@@ -1,0 +1,13 @@
+step.1 ファイル編集を行う
+
+step.2 add
+git add index.html
+
+step.3 reset
+git reset HEAD index.html
+
+
+step.1 ファイル編集を行う
+
+step.2 checkout
+git checkout -- index.html
