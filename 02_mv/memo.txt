@@ -1,0 +1,7 @@
+step.1 ファイル移動：index.html → send
+
+step.2 ディレクトリ移動：index → send
+
+step.3 ファイルリネーム：index.html → index2.html
+
+steo.4 ディレクトリリネーム：index → index2
